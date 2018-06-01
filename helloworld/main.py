@@ -1,5 +1,5 @@
-import sys
 from __future__ import print_function
+import sys
 
 def main(argv=None):
     if argv is None:
